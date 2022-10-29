@@ -1,0 +1,26 @@
+ <> referred as generics used to pass 
+type of class eg ArrayList<Integer>=new ArrayList<>()
+ T extends Number allows only number classes
+aur subclass of no.
+comparable interface is used to compare onjects
+compareto is required for comparing
+lambda function are function which are finished 
+in one line ()->{} similar to js arrow function
+U cannot recover from error but u can recover 
+from exception
+throwable handles exception
+checked exception compile time pe samjega
+eg undetected file location file not found eexception
+unchecked exception run time pe samjega 
+eg divide by 0
+
+try catch and finally throw and throws are used
+clonable interface is used in java to clone objects
+
+shallow copy = in shallow copying when a object is clone the copy points to the same non primitive as the object
+Deep copy = non primitves point to new positon
+
+vector are similar to arraylist but are syncronized only one thread can access vector are time
+enums are grp of var that u cannot change
+enum constant are by default public, static and final
+
